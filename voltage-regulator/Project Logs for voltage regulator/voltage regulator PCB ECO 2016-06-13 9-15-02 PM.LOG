@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=VBATTERY Pin=C1-2
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component Footprint: Designator=U1 Old Footprint=SO8_L New Footprint=SO8_M
+Change Component Comment : Designator=C1 Old Comment=10% New Comment=Electrolytic
+Change Component Description : Designator=C1 Old Description=Capacitor New Description=Polarized Capacitor (Radial)
+Added Pin To Net: NetName=VBATTERY Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Room: Name=voltage regulator

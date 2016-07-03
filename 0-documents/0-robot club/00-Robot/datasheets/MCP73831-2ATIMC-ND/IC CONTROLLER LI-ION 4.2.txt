@@ -1,0 +1,4 @@
+
+digikey part number: MCP73831-2ATI/MC-ND
+description: 	IC CONTROLLER LI-ION 4.2V 8DFN
+http://www.digikey.com/product-detail/en/microchip-technology/MCP73831-2ATI-MC/MCP73831-2ATI-MC-ND/1874109

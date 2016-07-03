@@ -1,0 +1,58 @@
+Added Component: Designator=C1(6-0805_M)
+Added Component: Designator=C2(6-0805_M)
+Added Component: Designator=C3(6-0805_M)
+Added Component: Designator=J1(HDR1X2)
+Added Component: Designator=J2(HDR1X2)
+Added Component: Designator=J3(HDR1X2)
+Added Component: Designator=J4(HDR1X2)
+Added Component: Designator=R1(6-0805_M)
+Added Component: Designator=U1(TI-PW16_M)
+Added Pin To Net: NetName=AIN1 Pin=J1-1
+Added Pin To Net: NetName=AIN1 Pin=U1-16
+Added Net: Name=AIN1
+Added Pin To Net: NetName=AIN2 Pin=J1-2
+Added Pin To Net: NetName=AIN2 Pin=U1-15
+Added Net: Name=AIN2
+Added Pin To Net: NetName=AOUT1 Pin=J3-1
+Added Pin To Net: NetName=AOUT1 Pin=U1-2
+Added Net: Name=AOUT1
+Added Pin To Net: NetName=AOUT2 Pin=J3-2
+Added Pin To Net: NetName=AOUT2 Pin=U1-4
+Added Net: Name=AOUT2
+Added Pin To Net: NetName=BIN1 Pin=J2-1
+Added Pin To Net: NetName=BIN1 Pin=U1-9
+Added Net: Name=BIN1
+Added Pin To Net: NetName=BIN2 Pin=J2-2
+Added Pin To Net: NetName=BIN2 Pin=U1-10
+Added Net: Name=BIN2
+Added Pin To Net: NetName=BOUT1 Pin=J4-1
+Added Pin To Net: NetName=BOUT1 Pin=U1-7
+Added Net: Name=BOUT1
+Added Pin To Net: NetName=BOUT2 Pin=J4-2
+Added Pin To Net: NetName=BOUT2 Pin=U1-5
+Added Net: Name=BOUT2
+Added Pin To Net: NetName=CONTROL Pin=U1-1
+Added Net: Name=CONTROL
+Added Pin To Net: NetName=FAULT Pin=U1-8
+Added Net: Name=FAULT
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-11
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-12
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-14
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-3
+Added Pin To Net: NetName=NetR1_2 Pin=U1-6
+Added Net: Name=NetR1_2
+Added Class: Name=Motor_Driver
+Added Room: Name=Motor_Driver

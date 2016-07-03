@@ -1,0 +1,9 @@
+Added Component: Designator=J3(HDR1X6)
+Added Pin To Net: NetName=CONTROL Pin=J3-1
+Added Pin To Net: NetName=AOUT1 Pin=J3-2
+Added Pin To Net: NetName=AOUT2 Pin=J3-3
+Added Pin To Net: NetName=BOUT2 Pin=J3-4
+Added Pin To Net: NetName=BOUT1 Pin=J3-5
+Added Pin To Net: NetName=FAULT Pin=J3-6
+Added Member To Class: ClassName=Motor_Driver Member=Component J3 Header 6
+Added Room: Name=Motor_Driver

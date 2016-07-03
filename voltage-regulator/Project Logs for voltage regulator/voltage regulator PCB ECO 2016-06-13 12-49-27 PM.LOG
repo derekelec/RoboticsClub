@@ -1,0 +1,47 @@
+Added Component: Designator=C1(RAD-0.3)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=C3(1608[0603])
+Added Component: Designator=Css(RAD-0.3)
+Added Component: Designator=Q1(TO-92A)
+Added Component: Designator=R1(6-0805_M)
+Added Component: Designator=R2(6-0805_M)
+Added Component: Designator=R3(6-0805_M)
+Added Component: Designator=R4(6-0805_M)
+Added Component: Designator=U1(SO8_L)
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=Css-1
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R1-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-3
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetCss_2 Pin=Css-2
+Added Pin To Net: NetName=NetCss_2 Pin=R4-2
+Added Pin To Net: NetName=NetCss_2 Pin=U1-1
+Added Net: Name=NetCss_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R4-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-5
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=POWER1 Pin=C1-2
+Added Pin To Net: NetName=POWER1 Pin=U1-2
+Added Net: Name=POWER1
+Added Pin To Net: NetName=START Pin=Q1-2
+Added Net: Name=START
+Added Class: Name=voltage regulator
+Added Room: Name=voltage regulator

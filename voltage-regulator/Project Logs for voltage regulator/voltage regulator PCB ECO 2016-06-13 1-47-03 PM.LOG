@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=6-0805_M
+Change Component Footprint: Designator=R2A Old Footprint=J1-0603 New Footprint=6-0805_M
+Change Component Footprint: Designator=R2B Old Footprint=J1-0603 New Footprint=6-0805_M
+Change Component Footprint: Designator=R3 Old Footprint=J1-0603 New Footprint=6-0805_M
+Change Component Footprint: Designator=R4 Old Footprint=J1-0603 New Footprint=6-0805_M
+Added Room: Name=voltage regulator

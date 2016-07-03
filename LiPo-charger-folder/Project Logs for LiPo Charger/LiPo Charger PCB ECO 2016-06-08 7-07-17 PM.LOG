@@ -1,0 +1,8 @@
+Added Component: Designator=P1(HDR1X4)
+Added Pin To Net: NetName=CHARGE1 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=CHARGE2 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Member To Class: ClassName=LiPo_charger Member=Component C3 10%
+Added Member To Class: ClassName=LiPo_charger Member=Component P1 Header 4
+Added Room: Name=LiPo_charger

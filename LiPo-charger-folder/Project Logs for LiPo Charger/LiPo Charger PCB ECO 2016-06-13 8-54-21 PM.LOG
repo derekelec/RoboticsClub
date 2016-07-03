@@ -1,0 +1,5 @@
+Change Component Comment : Designator=D2 Old Comment=LED2 New Comment=LED2 Green
+Change Component Comment : Designator=D4 Old Comment=LED2 New Comment=LED2 Green
+Change Component Comment : Designator=D1 Old Comment=LED2 New Comment=LED2 RED
+Change Component Comment : Designator=D3 Old Comment=LED2 New Comment=LED2 Red
+Added Room: Name=LiPo_charger

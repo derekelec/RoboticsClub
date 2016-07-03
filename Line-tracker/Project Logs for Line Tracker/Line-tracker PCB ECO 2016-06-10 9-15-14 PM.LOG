@@ -1,0 +1,54 @@
+Change Component Footprint: Designator=R8 Old Footprint=RESC3116X07M New Footprint=FTPNT_RESISTORS
+Change Component Footprint: Designator=R9 Old Footprint=RESC3116X07M New Footprint=FTPNT_RESISTORS
+Change Component Footprint: Designator=R10 Old Footprint=RESC3116X07M New Footprint=FTPNT_RESISTORS
+Change Component Footprint: Designator=R11 Old Footprint=RESC3116X07M New Footprint=FTPNT_RESISTORS
+Change Component Footprint: Designator=R12 Old Footprint=RESC3116X07M New Footprint=FTPNT_RESISTORS
+Change Component Footprint: Designator=R13 Old Footprint=RESC3116X07M New Footprint=FTPNT_RESISTORS
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-3
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-3
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD1_2 Pin=D3-2
+Added Pin To Net: NetName=NetD1_2 Pin=D3-3
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=5V LT Pin=J8-1
+Added Pin To Net: NetName=NetD1_2 Pin=J8-2
+Added Pin To Net: NetName=5V LT Pin=R8-2
+Added Pin To Net: NetName=NetD1_1 Pin=R9-1
+Added Pin To Net: NetName=5V LT Pin=R9-2
+Added Pin To Net: NetName=5V LT Pin=R10-2
+Added Pin To Net: NetName=NetD2_1 Pin=R11-1
+Added Pin To Net: NetName=5V LT Pin=R11-2
+Added Pin To Net: NetName=5V LT Pin=R12-2
+Added Pin To Net: NetName=NetD3_1 Pin=R13-1
+Added Pin To Net: NetName=5V LT Pin=R13-2
+Added Pin To Net: NetName=NetJ6_3 Pin=U4-2
+Added Pin To Net: NetName=NetJ6_2 Pin=U4-4
+Added Pin To Net: NetName=NetJ6_1 Pin=U4-6
+Added Pin To Net: NetName=NetD1_2 Pin=U4-7
+Added Pin To Net: NetName=5V LT Pin=U4-9
+Added Pin To Net: NetName=5V LT Pin=U4-11
+Added Pin To Net: NetName=5V LT Pin=U4-13
+Added Pin To Net: NetName=5V LT Pin=U4-14
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=J7-3
+Added Pin To Net: NetName=NetD1_4 Pin=R8-1
+Added Pin To Net: NetName=NetD1_4 Pin=U4-1
+Added Net: Name=NetD1_4
+Added Pin To Net: NetName=NetD2_4 Pin=D2-4
+Added Pin To Net: NetName=NetD2_4 Pin=J7-2
+Added Pin To Net: NetName=NetD2_4 Pin=R10-1
+Added Pin To Net: NetName=NetD2_4 Pin=U4-3
+Added Net: Name=NetD2_4
+Added Pin To Net: NetName=NetD3_4 Pin=D3-4
+Added Pin To Net: NetName=NetD3_4 Pin=J7-1
+Added Pin To Net: NetName=NetD3_4 Pin=R12-1
+Added Pin To Net: NetName=NetD3_4 Pin=U4-5
+Added Net: Name=NetD3_4
+Change Class Name : Old Net Name=OC_BOT_SENSORS New Net Name=Line Tracker
+Added Room: Name=Line Tracker

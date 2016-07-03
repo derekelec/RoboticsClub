@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ1_3 Pin=U1-9
+Removed Pin From Net: NetName=NetJ1_4 Pin=U1-10
+Added Pin To Net: NetName=NetJ1_4 Pin=U1-9
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-10
+Added Room: Name=Motor_Driver

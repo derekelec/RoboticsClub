@@ -1,0 +1,2 @@
+UART
+http://www.digikey.com/product-detail/en/ftdi-future-technology-devices-international-ltd/FT230XS-R/768-1135-1-ND/3029155

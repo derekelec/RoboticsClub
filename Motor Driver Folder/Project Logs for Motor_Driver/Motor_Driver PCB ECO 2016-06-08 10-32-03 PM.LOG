@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=BOUT2 Pin=J3-5
+Added Pin To Net: NetName=BOUT2 Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Room: Name=Motor_Driver
