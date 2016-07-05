@@ -1,0 +1,17 @@
+Added Component: Designator=R1A(6-0805_M)
+Added Component: Designator=R1B(6-0805_M)
+Added Component: Designator=R2A(6-0805_M)
+Added Component: Designator=R2B(6-0805_M)
+Added Pin To Net: NetName=GND Pin=R1A-1
+Added Pin To Net: NetName=SENSE1 Pin=R1A-2
+Added Pin To Net: NetName=GND Pin=R1B-1
+Added Pin To Net: NetName=SENSE1 Pin=R1B-2
+Added Pin To Net: NetName=GND Pin=R2A-1
+Added Pin To Net: NetName=SENSE2 Pin=R2A-2
+Added Pin To Net: NetName=GND Pin=R2B-1
+Added Pin To Net: NetName=SENSE2 Pin=R2B-2
+Added Member To Class: ClassName=Motor_Driver Member=Component R1A Res1
+Added Member To Class: ClassName=Motor_Driver Member=Component R1B Res1
+Added Member To Class: ClassName=Motor_Driver Member=Component R2A Res1
+Added Member To Class: ClassName=Motor_Driver Member=Component R2B Res1
+Added Room: Name=Motor_Driver
