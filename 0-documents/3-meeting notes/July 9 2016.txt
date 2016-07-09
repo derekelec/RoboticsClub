@@ -1,0 +1,6 @@
+To do:
+  Joel - Start programming for the motor controller board in some language that
+  is micro-controller/processor compatible. Make sure this contains lots of
+  documentation (use Matlab with hardware specific code generation?)
+
+  Mat - coordinate with tyler to finish boards (physical systems)
