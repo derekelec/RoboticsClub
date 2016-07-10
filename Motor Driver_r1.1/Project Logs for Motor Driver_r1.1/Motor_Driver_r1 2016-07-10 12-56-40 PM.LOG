@@ -1,0 +1,72 @@
+Added Component: Designator=C4(6-0805_M)
+Added Component: Designator=C5(RAD-0.3)
+Added Component: Designator=C6(C1206)
+Added Component: Designator=J7(HDR1X3)
+Added Component: Designator=J8(HDR1X2)
+Added Component: Designator=J9(HDR1X2)
+Added Component: Designator=J10(HDR1X2)
+Added Component: Designator=J11(HDR1X2)
+Added Component: Designator=R7(6-0805_M)
+Added Component: Designator=R8(6-0805_M)
+Added Component: Designator=R9(6-0805_M)
+Added Component: Designator=R10(6-0805_M)
+Added Component: Designator=U2(SO8_M)
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=VOUT Pin=C4-2
+Added Pin To Net: NetName=VBATTERY Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VOUT Pin=C6-2
+Added Pin To Net: NetName=BATTERY Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=VOUT Pin=R7-2
+Added Pin To Net: NetName=NetC4_1 Pin=R8-1
+Added Pin To Net: NetName=VOUT Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetC4_1 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-2
+Added Pin To Net: NetName=VBATTERY Pin=U2-1
+Added Pin To Net: NetName=VBATTERY Pin=U2-2
+Added Pin To Net: NetName=NetC4_1 Pin=U2-3
+Added Pin To Net: NetName=VOUT Pin=U2-4
+Added Pin To Net: NetName=NetR7_1 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component C1 cap
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component C2 cap
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component C3 Cap Electrolytic
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component C4 10%
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component C5 Electrolytic
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component C6 20% low ESR
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J1 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J2 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J3 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J4 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J5 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J6 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J7 Header 3
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J8 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J9 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J10 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J11 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R1 Res1
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R2 Res1
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R3 Res1
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R4 Res1
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R5 Res1
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R6 Res1
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R7 1%
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R8 1%
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R9 1%
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R10 1%
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component U1 DRV8833PWR
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component U2 L6933H1.2
+Added Room: Name=Motor_Driver_r1.1

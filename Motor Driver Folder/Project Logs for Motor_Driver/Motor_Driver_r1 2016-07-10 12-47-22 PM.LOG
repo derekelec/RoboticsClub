@@ -1,0 +1,131 @@
+Added Component: Designator=C4(6-0805_M)
+Added Component: Designator=C5(RAD-0.3)
+Added Component: Designator=C6(C1206)
+Added Component: Designator=C7(6-0805_M)
+Added Component: Designator=C8(6-0805_M)
+Added Component: Designator=C9(capacitor_3d)
+Added Component: Designator=J7(HDR1X3)
+Added Component: Designator=J8(HDR1X2)
+Added Component: Designator=J9(HDR1X2)
+Added Component: Designator=J10(HDR1X2)
+Added Component: Designator=J11(HDR1X2)
+Added Component: Designator=J12(HDR1X2)
+Added Component: Designator=J13(HDR1X2)
+Added Component: Designator=J14(HDR1X2)
+Added Component: Designator=J15(HDR1X2)
+Added Component: Designator=J16(HDR1X2)
+Added Component: Designator=J17(HDR1X2)
+Added Component: Designator=R7(6-0805_M)
+Added Component: Designator=R8(6-0805_M)
+Added Component: Designator=R9(6-0805_M)
+Added Component: Designator=R10(6-0805_M)
+Added Component: Designator=R11(6-0805_M)
+Added Component: Designator=R12(6-0805_M)
+Added Component: Designator=R13(6-0805_M)
+Added Component: Designator=R14(6-0805_M)
+Added Component: Designator=R15(6-0805_M)
+Added Component: Designator=R16(6-0805_M)
+Added Component: Designator=U2(SO8_M)
+Added Component: Designator=U3(TI-PW16_M)
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=VOUT Pin=C4-2
+Added Pin To Net: NetName=VBATTERY Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VOUT Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=BATTERY Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VINT Pin=C8-2
+Added Pin To Net: NetName=BATTERY Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=BATTERY Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=START Pin=J7-1
+Added Pin To Net: NetName=VBATTERY Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=VOUT Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=VOUT Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=VOUT Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=VOUT Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=AIN1 Pin=J12-1
+Added Pin To Net: NetName=AIN2 Pin=J12-2
+Added Pin To Net: NetName=AOUT1 Pin=J13-1
+Added Pin To Net: NetName=AOUT2 Pin=J13-2
+Added Pin To Net: NetName=BIN1 Pin=J14-1
+Added Pin To Net: NetName=BIN2 Pin=J14-2
+Added Pin To Net: NetName=BOUT1 Pin=J15-1
+Added Pin To Net: NetName=BOUT2 Pin=J15-2
+Added Pin To Net: NetName=BATTERY Pin=J16-1
+Added Pin To Net: NetName=GND Pin=J16-2
+Added Pin To Net: NetName=FAULT Pin=J17-1
+Added Pin To Net: NetName=CONTROL Pin=J17-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=VOUT Pin=R7-2
+Added Pin To Net: NetName=NetC4_1 Pin=R8-1
+Added Pin To Net: NetName=VOUT Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetC4_1 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=SENSE1 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=SENSE1 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=SENSE1 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=SENSE2 Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=SENSE2 Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=SENSE2 Pin=R16-2
+Added Pin To Net: NetName=VBATTERY Pin=U2-1
+Added Pin To Net: NetName=VBATTERY Pin=U2-2
+Added Pin To Net: NetName=NetC4_1 Pin=U2-3
+Added Pin To Net: NetName=VOUT Pin=U2-4
+Added Pin To Net: NetName=NetR7_1 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=CONTROL Pin=U3-1
+Added Pin To Net: NetName=AOUT1 Pin=U3-2
+Added Pin To Net: NetName=SENSE1 Pin=U3-3
+Added Pin To Net: NetName=AOUT2 Pin=U3-4
+Added Pin To Net: NetName=BOUT2 Pin=U3-5
+Added Pin To Net: NetName=SENSE2 Pin=U3-6
+Added Pin To Net: NetName=BOUT1 Pin=U3-7
+Added Pin To Net: NetName=FAULT Pin=U3-8
+Added Pin To Net: NetName=BIN1 Pin=U3-9
+Added Pin To Net: NetName=BIN2 Pin=U3-10
+Added Pin To Net: NetName=NetC7_1 Pin=U3-11
+Added Pin To Net: NetName=BATTERY Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=VINT Pin=U3-14
+Added Pin To Net: NetName=AIN2 Pin=U3-15
+Added Pin To Net: NetName=AIN1 Pin=U3-16
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component C4 10%
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component C5 Electrolytic
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component C6 20% low ESR
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J5 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J7 Header 3
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J8 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J9 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J10 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J11 Header 2
+Added Member To Class: ClassName=Motor_Driver Member=Component J14 Header 2
+Added Member To Class: ClassName=Motor_Driver Member=Component J16 Header 2
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R2 Res1
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R3 Res1
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R7 1%
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R8 1%
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R9 1%
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component R10 1%
+Added Member To Class: ClassName=Motor_Driver Member=Component R13 Res1
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component U2 L6933H1.2
+Added Room: Name=Motor_Driver
+Added Room: Name=Motor_Driver_r1.1
