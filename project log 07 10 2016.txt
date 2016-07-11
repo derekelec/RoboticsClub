@@ -24,4 +24,20 @@ Design -> Document options : parameter tab
 - change the author etc or modify as desired.
 
 
+ALTIUM PCB SUBMISSION TO SEEED STUDIO
 
+- guidelines: http://support.seeedstudio.com/knowledgebase/articles/422482-fusion-pcb-order-submission-guidelines
+- ctrl+f: Altium Designer Gerber Generator < click the link to download it> 
+
+
+OVERLAY FORMAT
+- double click on a part, like J1 for example. The parameters box opens
+- under "designator" in top middle, check off on "hide" checkbox.
+- all jumpers or connectors should not display its part number on the overlay layer in the PCB document.
+
+
+check list
+- pcb and schematic
+- bill of materials checklist: how can i modify it so that only my parameters exist?
+- check bom
+- get screws for stand offs
