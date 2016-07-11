@@ -1,0 +1,27 @@
+project log 07 10 2016
+
+july 10 2016
+
+ALTIUM DESIGNER: CUSTOM TITLE BLOCKS
+go to the altium folder where all your templates are located. This is where mine is:
+
+C:\Program Files (x86)\Altium\AD13\Templates\A4.SchDot
+
+watch this video:
+https://www.youtube.com/watch?v=TYDzjcb7eRY
+
+When creating or modifying your template for a specific document, try this.
+Open the template in altium, and then also open the schematic file that you want to modify.
+TEMPLATE
+- make changes to the template, save it.
+SCHEMATIC 
+- file: design -> project templates -> choose a file
+- chose the template that you just saved.
+- Update Template pop up: choose "just this document" and "add new parameters that exist in the template only."
+
+be sure to have the person making the schematic insert their name etc into the design
+Design -> Document options : parameter tab
+- change the author etc or modify as desired.
+
+
+
