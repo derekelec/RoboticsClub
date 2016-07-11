@@ -29,16 +29,16 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for Motor Driver_r1.1
+OutputPath=
 
 [Document1]
-DocumentPath=..\Motor Driver Folder\Motor_Driver_r1.1.PcbDoc
+DocumentPath=..\ROBOT BLOCK DIAGRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -48,22 +48,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=..\Motor Driver Folder\Motor_Driver_r1.1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document3]
 DocumentPath=..\Libraries\BOT_SENSORS_LIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -79,7 +63,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document4]
+[Document3]
 DocumentPath=..\Libraries\PCB_library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -95,7 +79,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
+[Document4]
 DocumentPath=..\Libraries\Sensors_PCB_LIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -111,7 +95,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document6]
+[Document5]
 DocumentPath=..\Libraries\Sensors_Schem_AP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -127,7 +111,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document7]
+[Document6]
 DocumentPath=..\Libraries\Sensors_SchematicLib.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -143,7 +127,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document8]
+[Document7]
 DocumentPath=..\Libraries\Ultrasonic Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +143,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document8]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +159,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
+[Document9]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,8 +175,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document10]
 DocumentPath=NC drill files.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document11]
+DocumentPath=Motor_Driver_r1.1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document12]
+DocumentPath=Motor_Driver_r1.1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -306,7 +322,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Motor Driver_r1.1
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
