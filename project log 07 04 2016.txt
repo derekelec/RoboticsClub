@@ -1,0 +1,24 @@
+project log 07 04 2016
+
+july 04 2016
+
+motordriver PCB
+- BOM: headers have both components to complete on, package type for chip
+- eventually change RSENSE layout so that different resistors can be added. Have parallel bank so that they can be populated.
+- fault is used by microcontroller: can have a light that blinks
+- control is used to disable all motors (link a neutral)
+- C1: put hot glue under it to stabilize it.
+
+
+voltage regulator.
+- connect all drilled holes to top and bottom plane: try putting J2 a bit forward so that the ground planes are connected for single sided board.
+- make sure capacitor holes are correct size (0.9mm)
+
+
+next revision
+- standard size PCB outline so that boards can be stacked. i.e. the four stand-off holes are all in same location.
+- also order right angle 2 pin headers for all boards just in-case.
+- general board labels
+
+
+

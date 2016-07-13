@@ -1,0 +1,188 @@
+Removed Parameter Available Preview Images:2D from Implementation PCBLIB TI-PW16_L
+Removed Parameter Available Preview Images:2D from Implementation PCBLIB TI-PW16_M
+Removed Parameter Available Preview Images:2D from Implementation PCBLIB TI-PW16_N
+Removed Parameter Available Preview Images:2D from Implementation PCBLIB SO8_L
+Removed Parameter Available Preview Images:2D from Implementation PCBLIB SO8_M
+Removed Parameter Available Preview Images:2D from Implementation PCBLIB SO8_N
+Removed Parameter Code_IPC:SOIC127P600-8 from Part U2
+Removed Parameter Code_JEDEC:MS-012-AA from Part U2
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U1
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U2
+Removed Parameter ComponentLink2Description:Datasheet from Part U1
+Removed Parameter ComponentLink2Description:Datasheet from Part U2
+Removed Parameter ComponentLink2URL:http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00148469.pdf from Part U2
+Removed Parameter ComponentLink2URL:http://www.ti.com/lit/ds/symlink/drv8833.pdf from Part U1
+Removed Parameter ComponentLink3Description:Package Specification from Part U1
+Removed Parameter ComponentLink3Description:Package Specification from Part U2
+Removed Parameter ComponentLink3URL:http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/PACKAGE_INFORMATION/CD00004680.pdf from Part U2
+Removed Parameter ComponentLink3URL:http://www.ti.com/lit/ml/mpds361/mpds361.pdf from Part U1
+Removed Parameter Control I/F:PWM from Part U1
+Removed Parameter DatasheetVersion:Nov-2007 from Part U2
+Removed Parameter DatasheetVersion:SLVSAR1D from Part U1
+Removed Parameter Eco-Plan:Green (RoHS & no Sb/Br) from Part U1
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C5
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J5
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J6
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J7
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J8
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R5
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R6
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R7
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R8
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R9
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R10
+Removed Parameter Mounting Technology:Surface Mount from Part U1
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter PackageVersion:4040064-4/G from Part U1
+Removed Parameter PackageVersion:Dec-2002 from Part U2
+Removed Parameter PartNumber:DRV8833PWR from Part U1
+Removed Parameter Peak Output Current:2 A from Part U1
+Removed Parameter Publisher:Altium Limited from Part C1
+Removed Parameter Publisher:Altium Limited from Part C2
+Removed Parameter Publisher:Altium Limited from Part C3
+Removed Parameter Publisher:Altium Limited from Part C4
+Removed Parameter Publisher:Altium Limited from Part C5
+Removed Parameter Publisher:Altium Limited from Part J1
+Removed Parameter Publisher:Altium Limited from Part J2
+Removed Parameter Publisher:Altium Limited from Part J3
+Removed Parameter Publisher:Altium Limited from Part J4
+Removed Parameter Publisher:Altium Limited from Part J5
+Removed Parameter Publisher:Altium Limited from Part J6
+Removed Parameter Publisher:Altium Limited from Part J7
+Removed Parameter Publisher:Altium Limited from Part J8
+Removed Parameter Publisher:Altium Limited from Part R1
+Removed Parameter Publisher:Altium Limited from Part R2
+Removed Parameter Publisher:Altium Limited from Part R3
+Removed Parameter Publisher:Altium Limited from Part R4
+Removed Parameter Publisher:Altium Limited from Part R5
+Removed Parameter Publisher:Altium Limited from Part R6
+Removed Parameter Publisher:Altium Limited from Part R7
+Removed Parameter Publisher:Altium Limited from Part R8
+Removed Parameter Publisher:Altium Limited from Part R9
+Removed Parameter Publisher:Altium Limited from Part R10
+Removed Parameter rDS (ON) (LS + HS):360 mOhms from Part U1
+Removed Parameter RMS Output Current:1.5 A from Part U1
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap Pol
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap Pol
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Temperature Range:-40 to 85 degC from Part U1
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap Pol
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap Pol
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Vs:2.7 V Min. from Part U1

@@ -1,0 +1,32 @@
+project log 07 11 2016
+
+july 11 2016
+
+ALTIUM DESIGNER: customizing the BOM
+
+
+C:\Program Files (x86)\Altium\AD13\Templates\A4.SchDot
+alt -> tools -> parameter manager: click ok. Click on an unwanted parameter and delete it.  Add wanted
+hotkey: t -> r
+
+documentation : http://techdocs.altium.com/display/ADRR/Sch_Obj-Parameter((Parameter))_AD
+
+create a BOM:
+hotkey: r -> i
+- have not figured out how to properly use the template.  It doesn't populate columns with information and
+ends up being empty...
+- now under "all columns" on the right, check off "comments" and move it to the top of the list so that 
+the BOM is sorted by the comment inserted into each parts parameters.
+- deselect desired: supplier order quantity
+- add: items from BOM format that we use
+- check off "add to project" and "open exported" then click "export"
+
+Making the BOM have alternating color lines:
+- select are you want to modify (all populated cells)
+- styles -> conditional formatting -> new rule
+click "use a formula to determine which cells to format"
+=MOD(ROW(),2)=0 ; click on format: fill : select a color
+-repeat this for =MOD(ROW(),2)=1 ; select a different color
+- adjust the BOM accordingly and check for mistakes
+
+

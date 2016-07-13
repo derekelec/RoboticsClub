@@ -1,12 +1,9 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Motor Driver_r1.1.PrjPCB]
-   Generated File[Motor_Driver_r1.1.TXT]
-   Generated File[Motor_Driver_r1.1.LDP]
-   Generated File[Motor_Driver_r1.1.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Motor Driver_r1.1.PrjPCB]
 
 
-Files Generated   : 3
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 4:47:32 PM On 2016-07-10
+Finished Output Generation At 9:51:25 PM On 2016-07-11
