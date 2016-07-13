@@ -1,0 +1,22 @@
+Change Component DesignItemId : Designator=C3 Old DesignItemId= New DesignItemId=Cap Pol1
+Change Component Footprint: Designator=C5 Old Footprint=capacitor_3d New Footprint=capacitor_tantalum
+Change Component Comment : Designator=C3 Old Comment= New Comment=10uF Electrolytic
+Change Component Comment : Designator=R9 Old Comment=1% New Comment=1% 1.15k
+Change Component Comment : Designator=R10 Old Comment=1% New Comment=1% 2k
+Change Component Comment : Designator=R8 Old Comment=1% New Comment=1% 10k
+Change Component Comment : Designator=R7 Old Comment=1% New Comment=1% 100k
+Change Component Comment : Designator=C4 Old Comment=10% New Comment=100pF Cap
+Change Component Comment : Designator=C2 Old Comment=cap New Comment=2.2uF cap
+Change Component Comment : Designator=C1 Old Comment=cap New Comment=10pF cap
+Change Component Comment : Designator=C5 Old Comment=Electrolytic New Comment=47uF Electrolytic
+Change Component Comment : Designator=R3 Old Comment=Res1 New Comment=1
+Change Component Comment : Designator=R6 Old Comment=Res1 New Comment=1
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=100m
+Change Component Comment : Designator=R4 Old Comment=Res1 New Comment=100m
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=200m
+Change Component Comment : Designator=R5 Old Comment=Res1 New Comment=200m
+Change Component Description : Designator=C3 Old Description= New Description=Polarized Capacitor (Radial)
+Change Component Library : Designator=C3 Old Library= New Library=Miscellaneous Devices.IntLib
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component C3 10uF Electrolytic
+Added Member To Class: ClassName=Motor_Driver_r1.1 Member=Component J4 Header 2
+Added Room: Name=Motor_Driver_r1.1
