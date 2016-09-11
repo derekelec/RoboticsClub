@@ -1,0 +1,86 @@
+/*
+ * perform_function
+ * 
+ * */
+
+ /*
+FUNCTION :    int perform_function(incomingByte)
+DESCRIPTION: returns '1' for a command executed and '0' if nothing was executed
+NOTES: this function needs to be able to read quite a large range of data, look at Stepper:Stepper(int number_of_steps .. 
+*/
+
+boolean perform_function(int var, char command){
+
+boolean control = 0;
+
+//  now do the task: set up with tasks 0-4, this could be changed to ASCII table
+// investigate difference between how functions handle the following: number_of_steps, whatSpeed, thisStep
+
+switch(command){  
+  case 'A': {
+    //  void Stepper::Stepper(int number_of_steps, int motor_pin_1, int motor_pin_2, int motor_pin_3, int motor_pin_4);
+    Serial.println("clockwise");
+    myStepper1.step(number_of_steps);
+    delay(500);
+
+    //debugging_flasher(13,500,var, command); 
+    control = 1;
+    Serial.print("Received an A!");
+    break;
+  }
+  
+  case 'B':   {
+    // void Stepper::setSpeed(long whatSpeed);
+    Serial.println("clockwise");
+    myStepper2.step(number_of_steps);
+    delay(500);
+    
+    // flash LED on D11 for 2 seconds
+    //debugging_flasher(12,500, var, command);          
+    control = 1;
+    Serial.print("Received an B!");
+    break; 
+  }
+  case 'C':     {
+    // void Stepper::step(int steps_to_move);
+    Serial.println("counterclockwise");
+    myStepper1.step(-number_of_steps);
+    delay(500);
+    
+    // flash LED on D11 for 2 seconds
+    //debugging_flasher(11,500, var, command); 
+    control = 1;
+    Serial.print("Received an C!");
+    break;  
+  }
+  case 'D':     {
+    //  void Stepper::stepMotor(int thisStep);  
+    Serial.println("counterclockwise");
+    myStepper2.step(-number_of_steps);
+    delay(500);
+        
+    //debugging_flasher(10,500,var, command); 
+    control = 1;
+    Serial.print("Received an D!");
+    break;
+    }
+
+  
+  /*
+  case 5:{}
+  case 6:{}
+  case 7:{}
+  case 8:{} 
+*/
+  // default statement just in case!
+  default:
+    control = 0;
+  break;
+  
+
+
+}// END OF switch(motorCommand)  
+  
+// indicate if a command or handshake was received
+return control;
+} // END: perform_function()
