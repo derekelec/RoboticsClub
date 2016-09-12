@@ -132,8 +132,8 @@ void receiveEvent(int bytes) {
   //Serial.println(test);// now it is time to test functionality
 }
 void changeMicrostepping(int i){
-    digitalWrite(ms1,microstepping[i]);
-    digitalWrite(ms2,microstepping[i+1]);
-    digitalWrite(ms3,microstepping[i+2]);
+    digitalWrite(ms1,microstepping[i*3]);
+    digitalWrite(ms2,microstepping[i*3+1]);
+    digitalWrite(ms3,microstepping[i*3+2]);
 }
 
