@@ -37,7 +37,7 @@ email:		wjmarriott@gmail.com
 student #: 	V00862771
 
 name: 		Joshua Newton
-email:j		newt@uvic.ca
+email:		jnewt@uvic.ca
 student #: 	V00826800
 
 Name: 		Dalton Braun 

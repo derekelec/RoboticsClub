@@ -38,8 +38,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
-    D14
+    D12
+    D15
     D17
     D18
     D19
@@ -51,47 +51,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Motor_Driver_r1.1.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Motor_Driver_r1.1.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
 Generating : Top Overlay
       File : Motor_Driver_r1.1.GTO
 
@@ -99,30 +58,12 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D14
+    D15
     D25
     D26
     D27
     D28
     D29
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Motor_Driver_r1.1.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
 *************************************************************
 
 *************************************************************
@@ -163,7 +104,7 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D30
+    D32
     D34
     D35
     D36
@@ -175,21 +116,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Motor_Driver_r1.1.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
 Generating : Bottom Overlay
       File : Motor_Driver_r1.1.GBO
 
@@ -197,41 +123,8 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D27
+    D15
     D29
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Motor_Driver_r1.1.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Motor_Driver_r1.1.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D28
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Motor_Driver_r1.1.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D28
-    D42
 *************************************************************
 
 *************************************************************
@@ -242,6 +135,7 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
+    D27
 *************************************************************
 
 *************************************************************
@@ -254,7 +148,7 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D29
+    D42
     D43
 *************************************************************
 
@@ -268,6 +162,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D29
+    D42
 *************************************************************
 

@@ -1,20 +1,34 @@
-Club description:
-This is a robotics club that is organized to facilitate those with interests in engineering challenges.  The pupose of the club is to achieve autonomous control of a robot.  Our mission is to promote engineering challenges that require diverse skillsets and provide an environment that promotes diversity, equality, and teamwork.
 
+club email address: 
+robotics.vic@hotmail.com
 
-club email address
-club website
-club description
+club website: 
+http://uvicroboticclub.blogspot.ca/
+
+club description:
+This is a robotics club that is organized to facilitate those with interests in engineering challenges.  The pupose of the club is to expand on autonomous control of a robot, and robotics environments.  Our mission is to promote engineering challenges that require diverse skillsets and provide an environment that promotes diversity, equality, and teamwork.
+
 
 ...................................................
-
+Signing authorities
 President: Matthew McCann
 email: mmccann@uvic.ca
+phone number: 778-215-5686
 student number: V00862889
 
 Vice-President: Joel Newman
 JoelNew@UVic.ca
+phone number: 403-896-3336
 student number: V00862921
+
+name:Tyler Selvig
+Email: TSelvig87@gmail.com
+phone number: 250-896-2258
+Student Number: V00790597
+...................................................
+FINAL DETAILS
+
+Club membership list:
 
 name:Phill Phan
 email:phill585phanx@hotmail.com
@@ -60,10 +74,6 @@ Name: Cory Boulet
 Email: cory.boulet@gmail.com 
 Student#:V00862188
 
-name:Tyler Selvig
-Email: TSelvig87@gmail.com
-Student Number: V00790597
-
 name:Colby Timm
 Email: timmcolby@gmail.com
 Student Number: n/a
@@ -72,6 +82,5 @@ Student Number: n/a
 
 ...................................................
 
-Club membership list:
 Club Constitution:
-
+- see the folder{ github->robotics club-> management -> UVSS -> Robotics Club Constitution }

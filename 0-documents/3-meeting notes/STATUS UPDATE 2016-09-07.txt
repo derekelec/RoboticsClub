@@ -1,0 +1,50 @@
+Robotics Club Status Update, September 7th 2016
+------------------------------------------------------------------------------------------------------------------------------------
+
+Mechanical Department: Daniela Constantinescu
+Electrical Department: Alexandra Albu
+
+What are we currently doing?
+- currnet initiative: set up club booth, launch starts next week, pitch for funding next week.
+
+what do we facilitate?
+- 3D printing, CNC machine, embedded design (hardware and programming), computer programming (robot vision)
+
+
+
+Milestones
+	- current: robot assembled and working. Able to control it with an Xbox 360 controller from a computer to the mobile robot.
+	- Jan 2017: Embedded design revision 2. Club details established( club space, business plan, website).
+	- Fall 2017: Host a robotics competition.... schools should be contacted by April 2017 to figure this out.
+Goals
+	- current: Runs as commanded via WI-FI
+	- Jan 2017: Robot vision and mechanical systems for an automated warehouse robot.
+
+Outreach
+	- current: CSSE and ESS industry speakers.  One per semester, we bring in experienced professionals to talk about a industry of interest
+	that is related to one of the clubs.
+	- prevous: summer 2016 -> Canada and Space featuring Dr Don Kjossness.
+	- next: Oct 2016 -> Topic being established... Tech Startups: Funding (Law, Business, Engineering)
+	- initiative: establish a position in the ESS as clubs director.  Purpose is to source business students for clubs.  Similar method
+	as LIM, for business students, where the clubs can post positions (i.e. finance director) and business students can apply.  The ESS 
+	member gets information from clubs, and sets up an interview to see if the club wants to hire them.
+
+Questions
+
+1)	Tell me about your involvement with a club in the past (or someone you know).  Describe the professor's role.
+	
+2)	Formula One and Hybrid have massive sponsors, and I imagine there is a certain amount of responsibility that the club holds.
+	With a similar end goal, how can you see the robotics club achieving sponsorship like Formula One and Hybrid?
+	
+3)	I have a personal initiative of gaining an undergraduate thesis through the robotics club.  
+	- thoughs?
+	- do you have grad students?
+	
+4)	If you were in my shoes, what would you ask?
+	
+5)	Do you have any questions for me?
+
+
+
+
+

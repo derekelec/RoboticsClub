@@ -1,0 +1,10 @@
+arduino to pi tutorials for serial communication
+
+https://oscarliang.com/raspberry-pi-and-arduino-connected-serial-gpio/
+
+http://www.instructables.com/id/Raspberry-Pi-Arduino-Serial-Communication/
+
+I2C communication between arduinos
+http://www.instructables.com/id/I2C-between-Arduinos/
+- arduino nano: A4(SDA), A5(SCL)
+- arduino uno pinout: http://forum.arduino.cc/index.php?topic=84190.0
