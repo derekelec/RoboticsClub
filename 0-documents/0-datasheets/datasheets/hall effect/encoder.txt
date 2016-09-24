@@ -1,2 +1,0 @@
-encoder readings
-http://machinedesign.com/sensors/basics-rotary-encoders-overview-and-new-technologies-0
